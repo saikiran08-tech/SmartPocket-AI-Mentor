@@ -12,7 +12,7 @@
 // TODO: REPLACE WITH YOUR FIREBASE CONFIG
 // Get this from Firebase Console > Project Settings > Your apps > SDK setup and configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCV0NEarpz2fa1mMHqBKB5Eif8DKfkpyjw",
+    apiKey: "api_key_here",
     authDomain: "smartpocket-2f45b.firebaseapp.com",
     projectId: "smartpocket-2f45b",
     storageBucket: "smartpocket-2f45b.firebasestorage.app",
